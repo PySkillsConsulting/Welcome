@@ -34,15 +34,15 @@
 * **[Sample](https://pyskillsconsulting.github.io/Unit-Testing/#/)**
 ### Curriculum
 * Scalable Development
-  * Scope
-  * Functions
-  * Packages
-  * Libraries
+  * Documentation
+  * Complexity Analysis
+  * PEP8 Standards
+  * Modular Programming
 * Logging
-  * Exceptions
-  * Comprehensions
-  * Generators
-  * [Decorators](https://pyskillsconsulting.github.io/Decorators/#/)
+  * Loggers
+  * Handlers
+  * Filers & Formatters
+  * The Logging Hierarchy
 * Testing
   * [Unit Testing](https://pyskillsconsulting.github.io/Unit-Testing/#/)
   * Parameterization
