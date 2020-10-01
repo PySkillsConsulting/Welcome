@@ -29,6 +29,7 @@
   * The Interpreter
   * Garbage Collection
   * Memory Manamgenet
+### [Register](https://pyskillsconsulting.com/pythonic-programming-registration)
 
 ## [Scalable Python](https://pyskillsconsulting.com/scalable-python)
 *This course focuses on writing sustainable and scalable Python programs. An emphasis is placed on PEP8 standards and the theory of testing.*
@@ -54,8 +55,7 @@
   * Test Driven Development
   * Fault Tolerance
   * Visualization
-
-## [Register For A Course](https://pyskillsconsulting.com/scalable-python-registration)
+### [Register](https://pyskillsconsulting.com/scalable-python-registration)
 
 ## Follow Us
 * [Instagram](https://www.instagram.com/pyskills/)
