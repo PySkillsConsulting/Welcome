@@ -54,8 +54,7 @@
   * Fault Tolerance
   * Visualization
 
-## Register For A Course
-Follow [these](https://pyskillsconsulting.com/scalable-python-registration) instructions to register for a course
+## [Register For A Course](https://pyskillsconsulting.com/scalable-python-registration)
 
 ## Follow Us
 * [Instagram](https://www.instagram.com/pyskills/)
