@@ -6,6 +6,7 @@
 ## Courses Offered
 ### [Pythonic Programming](https://pyskillsconsulting.com/pythonic-programming)
 *This course focuses on understanding the underlying implementation of Python types as well as built-in syntax that allows for optimized programming practices.*
+**[Sample](https://pyskillsconsulting.github.io/Decorators/#/)**
 ### Basics
 * Refresher
 * Formal Definition
@@ -23,10 +24,9 @@
 * `@` Syntax
 * Complete Example
 
-**[Sample Of Curriculum](https://pyskillsconsulting.github.io/Decorators/#/)**
-
 ### [Scalable Python](https://pyskillsconsulting.com/scalable-python)
 *This course focuses on writing sustainable and scalable Python programs. An emphasis is placed on PEP8 standards and the theory of testing.*
+**[Sample](https://pyskillsconsulting.github.io/Unit-Testing/#/)**
 ### Basics
 * Introduction To Testing
 * The Testing Pyramid
@@ -39,8 +39,6 @@
 * skipif
 * xfail
 * dependency
-
-**[Sample Of Curriculum](https://pyskillsconsulting.github.io/Unit-Testing/#/)**
 
 ## Register For A Course
 Follow [these](https://pyskillsconsulting.com/scalable-python-registration) instructions to register for a course
