@@ -6,7 +6,7 @@
 
 
 ## Follow Us
-![Instagram](https://www.instagram.com/pyskills/)
-![Facebook](https://www.facebook.com/PySkills)
-![Twitter](https://twitter.com/PyskillsC)
-![LinkedIn](https://www.linkedin.com/company/pyskills-consulting)
+* [Instagram](https://www.instagram.com/pyskills/)
+* [Facebook](https://www.facebook.com/PySkills)
+* [Twitter](https://twitter.com/PyskillsC)
+* [LinkedIn](https://www.linkedin.com/company/pyskills-consulting)
