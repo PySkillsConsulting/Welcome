@@ -5,13 +5,45 @@
 
 ## Courses Offered
 ### [Pythonic Programming](https://pyskillsconsulting.com/pythonic-programming)
-This course focuses on understanding the underlying implementation of Python types as well as built-in syntax that allows for optimized programming practices. Some topics include decorators, generators, protocols, garbage collection and memory management.
-### [Scalable Python](https://pyskillsconsulting.com/scalable-python)
-This course focuses on writing sustainable and scalable Python programs. An emphasis is placed on PEP8 standards and the theory of testing. Some topics include unit and integration testing, fixtures, parametrization and mocks, as well as the logging library.
+*This course focuses on understanding the underlying implementation of Python types as well as built-in syntax that allows for optimized programming practices.*
+### Basics
+* Refresher
+* Formal Definition
+### First Class Functions
+* Nest
+* Return
+* Assignment
+* Combination
+### Argument Packing
+* Args
+* Kwargs
+### Decorators
+* Motivation
+* Consolidate Code
+* `@` Syntax
+* Complete Example
 
-## Available Curriculum
-* [Unit Testing](https://pyskillsconsulting.github.io/Unit-Testing/#/)
-* [Decorators](https://pyskillsconsulting.github.io/Decorators/#/)
+**[Sample Of Curriculum](https://pyskillsconsulting.github.io/Decorators/#/)**
+
+### [Scalable Python](https://pyskillsconsulting.com/scalable-python)
+*This course focuses on writing sustainable and scalable Python programs. An emphasis is placed on PEP8 standards and the theory of testing.*
+### Basics
+* Introduction To Testing
+* The Testing Pyramid
+### Pytest
+* Introduction
+* Example
+* Test Autodiscovery
+### Markers
+* Introduction
+* skipif
+* xfail
+* dependency
+
+**[Sample Of Curriculum](https://pyskillsconsulting.github.io/Unit-Testing/#/)**
+
+## Register For A Course
+Follow [these](https://pyskillsconsulting.com/scalable-python-registration) instructions to register for a course
 
 ## Follow Us
 * [Instagram](https://www.instagram.com/pyskills/)
