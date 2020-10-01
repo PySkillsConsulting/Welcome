@@ -2,6 +2,7 @@
 ## [www.pyskillsconsulting.com](www.pyskillsconsulting.com)
 
 #### We design customized Python curriculum for companies tailored to improve inefficient development practices
+#### [Contact Us](https://pyskillsconsulting.com/contact-us)
 
 # Courses Offered
 ## [Pythonic Programming](https://pyskillsconsulting.com/pythonic-programming)
