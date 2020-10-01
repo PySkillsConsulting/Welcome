@@ -1,2 +1,3 @@
 # Welcome
-Welcome To PySkills GitHub
+
+![PySkills Consulting Logo](images/pyskills_logo.jpg)
