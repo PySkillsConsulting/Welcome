@@ -32,7 +32,7 @@
 ### [Register](https://pyskillsconsulting.com/pythonic-programming-registration)
 
 ## [Scalable Python](https://pyskillsconsulting.com/scalable-python)
-![Scalable Python](images/course_scalable_python.jpg)
+![Scalable Python](images/courses_scalable_python.jpg)
 *This course focuses on writing sustainable and scalable Python programs. An emphasis is placed on PEP8 standards and the theory of testing.*
 * **[Sample](https://pyskillsconsulting.github.io/Unit-Testing/#/)**
 ### Curriculum
