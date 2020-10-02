@@ -1,5 +1,5 @@
 ![PySkills Consulting Logo](images/pyskills_logo.jpg)
-## [www.pyskillsconsulting.com](www.pyskillsconsulting.com)
+### [www.pyskillsconsulting.com](www.pyskillsconsulting.com)
 ### [Contact Us](https://pyskillsconsulting.com/contact-us)
 #### We design customized Python curriculum for companies tailored to improve inefficient development practices
 
